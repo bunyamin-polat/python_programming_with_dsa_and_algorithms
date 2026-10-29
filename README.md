@@ -3,7 +3,7 @@
 This repository contains Jupyter notebooks and Python scripts that cover **basic Python**, **advanced concepts**, and **data structures & algorithms** step-by-step.  
 The aim is to provide a practical roadmap from zero to mastery — starting with the basics, then moving into search/sort algorithms, complexity analysis, and dynamic programming.
 
-> Most examples are Jupyter Notebook-based. You can work with VS Code, Jupyter Lab, or any compatible environment.
+> **Scope.** These are learning and reference notes, not a production project. Most examples are Jupyter notebooks; they run in VS Code, JupyterLab or any compatible environment.
 
 ---
 
@@ -47,6 +47,7 @@ python -m venv .venv
 .venv\Scripts\activate
 # macOS/Linux
 source .venv/bin/activate
+```
 
 2. **Install dependencies**
 ```bash
@@ -83,7 +84,7 @@ Make changes, test them, and open a Pull Request.
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](LICENSE.md).
 
 ## Contact
     Repository owner: @bunyamin-polat
